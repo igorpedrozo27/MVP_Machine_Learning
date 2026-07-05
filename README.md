@@ -1,6 +1,6 @@
 # Predição de Refugo Industrial na Onduladeira (MVP)
 
-Este repositório contém o Produto Mínimo Viável (MVP) desenvolvido como parte da Pós-Graduação. O projeto aplica técnicas de Engenharia e Análise de Dados além Machine Learning para prever o volume diário de perdas (refugo) em uma máquina onduladeira de papelão, atuando como ferramenta de apoio à decisão para o Planeamento e Controlo de Produção (PCP).
+Este repositório contém o Produto Mínimo Viável (MVP) desenvolvido como parte da Pós-Graduação. O projeto aplica técnicas de Engenharia e Análise de Dados além de Machine Learning para prever o volume diário de perdas (refugo) em uma máquina onduladeira de papelão, atuando como ferramenta de apoio à decisão para o Planeamento e Controlo de Produção (PCP).
 
 ## Contexto do Problema
 
