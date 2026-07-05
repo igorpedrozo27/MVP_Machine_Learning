@@ -8,6 +8,8 @@ O processo de fabricação de papelão ondulado é físico, térmico e altamente
 
 O objetivo deste projeto é substituir a intuição por estatística, respondendo à pergunta: Com base no plano de produção de hoje (volume, setups esperados e momento do mês), quantos quilos de refugo a máquina irá gerar amanhã?
 
+> Além da resolução do problema operacional, este projeto possui um papel estratégico fundamental: atuar como uma demonstração interna (Prova de Conceito) do potencial da Ciência de Dados. Ao substituir suposições empíricas por modelos preditivos, o MVP visa impulsionar e validar a cultura de Data-Driven Decision Making (tomada de decisão baseada em dados) na corporação, evidenciando como a inteligência analítica pode ser o próximo grande diferencial competitivo da gestão industrial.
+
 ## Objetivos e Critérios de Sucesso
 
 Objetivo Principal: Prever o volume diário de refugo da onduladeira (em Kg) utilizando algoritmos de Regressão.
