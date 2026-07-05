@@ -1,0 +1,35 @@
+﻿Causa de Parada,Classificacao_de_Parada,Código
+Acumulo de Chapas,Microparada,32
+Aferimento,Parada Planejada,29
+Defeito Elétrico,Parada Não Planejada,4
+Defeito Mecânico,Parada Não Planejada,3
+Erro de Programação,Parada Não Planejada,27
+Falta de Ar Comprimido,Parada Não Planejada,14
+Falta de Cola,Parada Não Planejada,7
+Falta de Empilhadeira,Parada Não Planejada,9
+Falta de Energia,Parada Não Planejada,8
+Falta de Papel,Parada Não Planejada,12
+Falta de Pessoal,Parada Não Planejada,10
+Falta de Programação,Parada Não Planejada,13
+Falta de Vapor,Parada Não Planejada,11
+Formato Ajuste Curto,Microparada,25
+Limpeza  - Duto/Prensa,Parada Planejada,24
+Limpeza - Caixa de Vácuo,Parada Planejada,22
+Limpeza - Picador,Parada Planejada,23
+Manutenção Corretiva,Parada Não Planejada,6
+Manutenção Preventiva,Parada Planejada,5
+Ordem Superior - Diretoria,Parada Não Planejada,26
+Organização da Saída de Chapas,Microparada,31
+Outros,Outros,34
+Preparação da Máquina - Setup,Setup,2
+Quebra de Papel,Parada Não Planejada,15
+Quebra de Papel - Falha Operacional,Parada Não Planejada,16
+Reajustes de Medida,Microparada,28
+Refeição,Parada Planejada,1
+Refugo - Enroscamento de Refugo na Máquina,Parada Não Planejada,30
+Resinadeira,Setup,33
+Troca de Bobina,Setup,20
+Troca de Faca - Programada,Setup,21
+Troca de Formato,Setup,18
+Troca de Programação,Setup,19
+Troca de Qualidade,Setup,17
